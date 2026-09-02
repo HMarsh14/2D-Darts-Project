@@ -1,0 +1,126 @@
+{
+    "harry": {
+        "password_hash": "428e626f22d0273bb2741c8747418eaff1828bcd397fe7d00f3ec30d4519d95d",
+        "legs_won_total": 2,
+        "tournaments_won": 0,
+        "achievements_unlocked": 4,
+        "achievements": [
+            "ton_scorer",
+            "one_eighty",
+            "nine_darter",
+            "first_leg"
+        ],
+        "achievement_counts": {
+            "ton_scorer": 6,
+            "first_leg": 1,
+            "one_eighty": 3,
+            "nine_darter": 1
+        }
+    },
+    "AI_Riley": {
+        "password_hash": "",
+        "legs_won_total": 0,
+        "tournaments_won": 0,
+        "achievements_unlocked": 0,
+        "achievements": []
+    },
+    "AI_Casey": {
+        "password_hash": "",
+        "legs_won_total": 0,
+        "tournaments_won": 0,
+        "achievements_unlocked": 0,
+        "achievements": []
+    },
+    "AI_Jamie": {
+        "password_hash": "",
+        "legs_won_total": 0,
+        "tournaments_won": 0,
+        "achievements_unlocked": 0,
+        "achievements": []
+    },
+    "AI_Billy": {
+        "password_hash": "",
+        "legs_won_total": 0,
+        "tournaments_won": 0,
+        "achievements_unlocked": 0,
+        "achievements": []
+    },
+    "AI_Eric": {
+        "password_hash": "",
+        "legs_won_total": 0,
+        "tournaments_won": 0,
+        "achievements_unlocked": 0,
+        "achievements": []
+    },
+    "AI_Sam": {
+        "password_hash": "",
+        "legs_won_total": 0,
+        "tournaments_won": 0,
+        "achievements_unlocked": 0,
+        "achievements": []
+    },
+    "AI_Mike": {
+        "password_hash": "",
+        "legs_won_total": 0,
+        "tournaments_won": 0,
+        "achievements_unlocked": 0,
+        "achievements": []
+    },
+    "AI_Luke": {
+        "password_hash": "",
+        "legs_won_total": 0,
+        "tournaments_won": 0,
+        "achievements_unlocked": 0,
+        "achievements": []
+    },
+    "AI_Drew": {
+        "password_hash": "",
+        "legs_won_total": 0,
+        "tournaments_won": 0,
+        "achievements_unlocked": 0,
+        "achievements": []
+    },
+    "AI_Taylor": {
+        "password_hash": "",
+        "legs_won_total": 0,
+        "tournaments_won": 0,
+        "achievements_unlocked": 0,
+        "achievements": []
+    },
+    "AI_Jordan": {
+        "password_hash": "",
+        "legs_won_total": 0,
+        "tournaments_won": 0,
+        "achievements_unlocked": 0,
+        "achievements": []
+    },
+    "AI_Mason": {
+        "password_hash": "",
+        "legs_won_total": 0,
+        "tournaments_won": 0,
+        "achievements_unlocked": 0,
+        "achievements": []
+    },
+    "AI_Morgan": {
+        "password_hash": "",
+        "legs_won_total": 0,
+        "tournaments_won": 1,
+        "achievements_unlocked": 0,
+        "achievements": [],
+        "achievement_counts": {}
+    },
+    "AI_Grace": {
+        "password_hash": "",
+        "legs_won_total": 0,
+        "tournaments_won": 0,
+        "achievements_unlocked": 0,
+        "achievements": []
+    },
+    "AI_Alex": {
+        "password_hash": "",
+        "legs_won_total": 0,
+        "tournaments_won": 0,
+        "achievements_unlocked": 0,
+        "achievements": []
+    }
+}
