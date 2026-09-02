@@ -1,6 +1,6 @@
 # A-Level Darts Game Project - README
 
-#### Gameplay Video: <a href="https://youtu.be/_yzi6LE2AKs" target="_blank">Gameplay</a>
+#### Gameplay Video: https://youtu.be/_yzi6LE2AKs
 
 ## Overview
 This project is from my A-level NEA that I completed. It is a 2D darts game made within python using the pygame library. It includes full documentation if that's what you are interested by (including a mock stakeholder who is labelled as "Anonymous" for privacy reasons), as well as the whole design process, and coding process throughout iterations.
